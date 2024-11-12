@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Vinicius",
+      "email": "teste@gmail.com",
+      "senha": "teste"
+    },
+    {
+      "id": "2",
+      "name": "Ze",
+      "email": "teste2@gmail.com",
+      "senha": "teste2"
+    },
+    {
+      "id": "b778",
+      "nome": "teste",
+      "email": "teste3@gmail.com",
+      "senha": "teste"
+    },
+    {
+      "id": "f3a1",
+      "nome": "teste",
+      "email": "teste4@gmail.com",
+      "senha": "teste"
+    }
+  ]
+}
